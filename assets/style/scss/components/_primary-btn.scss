@@ -1,0 +1,59 @@
+.primary-button {
+
+  color: $Almost-White;
+
+  border: 2px solid $Almost-Black;
+
+  background-color: $Almost-Black;
+
+  padding: 1rem;
+
+  border-radius: 0.8rem;
+
+  display: inline-block;
+
+  font-size: var(--fs-500);
+
+  font-weight: 700;
+
+  &:hover {
+
+    color: $Almost-Black;
+
+    background-color: $Almost-White;
+
+  }
+
+}
+
+.primary-button--register {
+
+  background-color: $Almost-White;
+
+  color: $Medium-Gray;
+
+  border: 2px solid $Medium-Gray;
+
+  font-weight: 500;
+
+  padding: 1rem 3.8rem;
+
+  &:hover {
+
+    color: $Almost-Black;
+
+    border: 2px solid $Almost-Black;
+
+  }
+
+}
+
+@media screen and (min-width: 60rem) {
+
+  .primary-button--register {
+
+    padding: 1rem;
+
+  }
+
+}
