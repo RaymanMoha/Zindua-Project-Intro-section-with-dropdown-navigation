@@ -35,7 +35,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/mobilefirst-intro-section-with-dropdown-navigation-RKEu9Cs1Dr](https://www.frontendmentor.io/solutions/mobilefirst-intro-section-with-dropdown-navigation-RKEu9Cs1Dr)
-- Live Site URL: [https://intro-section-with-dropdown-navigation-one.vercel.app/](https://intro-section-with-dropdown-navigation-one.vercel.app/)
 
 ## My process
 
@@ -48,4 +47,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@rontoyhacao](https://www.frontendmentor.io/profile/rontoyhacao)
+- Frontend Mentor - [@RaymanMoha](https://www.frontendmentor.io/profile/RaymanMoha)
