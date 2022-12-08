@@ -1,0 +1,27 @@
+.btn {
+
+  border: none;
+
+  padding: 0.5rem;
+
+  background: none;
+
+  display: block;
+
+}
+
+.close-btn {
+
+  margin-left: auto;
+
+}
+
+@media screen and (min-width: 60rem) {
+
+  .btn {
+
+    display: none;
+
+  }
+
+}
