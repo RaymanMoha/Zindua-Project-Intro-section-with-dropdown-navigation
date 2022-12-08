@@ -1,0 +1,121 @@
+.main-container {
+
+  picture img {
+
+    width: 100%;
+
+  }
+
+  .cta-container {
+
+    text-align: center;
+
+    width: 94%;
+
+    margin: 3rem auto;
+
+    .stakeholder-logos-container {
+
+      margin: 3rem 0;
+
+      display: grid;
+
+      grid-template-columns: repeat(4, 1fr);
+
+      gap: 2rem;
+
+      align-items: center;
+
+      img {
+
+        width: 100%;
+
+      }
+
+    }
+
+  }
+
+}
+
+@media screen and (min-width: 60rem) {
+
+  main {
+
+    padding-top: 4rem;
+
+    .main-container {
+
+      @include wide-container;
+
+      display: flex;
+
+      flex-direction: row-reverse;
+
+      gap: 2rem;
+
+      box-sizing: border-box;
+
+      .cta-container {
+
+        text-align: initial;
+
+        margin: 6rem 0 0 3rem;
+
+        position: relative;
+
+        .stakeholder-logos-container {
+
+          margin: 0;
+
+          position: absolute;
+
+          bottom: 0;
+
+        }
+
+      }
+
+    }
+
+  }
+
+  footer {
+
+    padding: 1rem 0;
+
+  }
+
+}
+
+@media screen and (min-width: 80rem) {
+
+  main .main-container {
+
+    gap: 10rem;
+
+    padding: 0 5rem;
+
+  }
+
+}
+
+@media screen and (min-width: 90rem) {
+
+  main .main-container .cta-container {
+
+    h1 span {
+
+      display: block;
+
+    }
+
+    p {
+
+      margin: 3rem 0;
+
+    }
+
+  }
+
+}
