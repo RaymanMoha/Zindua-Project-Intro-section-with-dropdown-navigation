@@ -33,9 +33,6 @@ Users should be able to:
 
 ![](./screenshots/intro-section-with-dropdown-navigation-one.vercel.app_.png)
 
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/solutions/mobilefirst-intro-section-with-dropdown-navigation-RKEu9Cs1Dr](https://www.frontendmentor.io/solutions/mobilefirst-intro-section-with-dropdown-navigation-RKEu9Cs1Dr)
 
 ## My process
 
